@@ -89,7 +89,7 @@ Market Research
 → Problem Definition  
 → Product Opportunities
 
-📄 **[View Full Case Study →](https://github.com/dodojo/flo-health-product-analysis)**
+📄 **[View Full Case Study →](https://github.com/dodojio/flo-health-product-analysis)**
 
 ---
 
@@ -105,7 +105,7 @@ LunaCare explores a more transparent and trustworthy AI cycle experience through
 
 `Product Strategy` · `User Research` · `PRD` · `User Flow` · `AI Product Logic` · `Interactive Prototype`
 
-🌐 **[View Full Case Study →](https://dodojo.github.io/lunacare-ai-product/)**
+🌐 **[View Full Case Study →](https://dodojio.github.io/lunacare-ai-product/)**
 
 ---
 
