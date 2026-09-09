@@ -20,11 +20,11 @@
 
 ## ✦ About me
 
+<img align="right" src="./241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="260"/>
+
 🎓 University of Washington — **Com & Info**
 
 🧠 Interested in **AI Product Management** and consumer products.
-
-🔍 I enjoy turning user research and data into clear product decisions.
 
 🤖 Exploring **LLM, AI Agents and human-centered AI experiences**.
 
@@ -36,8 +36,6 @@
 
 ### 🌙 LunaCare
 **AI-powered Women's Health Product · 0→1 Product Case**
-
-Research → Problem Definition → Product Strategy → MVP → PRD → Prototype → Validation
 
 ---
 
