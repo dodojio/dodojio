@@ -93,13 +93,19 @@ Market Research
 
 ---
 
-### 🌙 Case 02 — LunaCare
+### 🌙 [LunaCare — 0→1 AI Women's Health Product](https://dodojo.github.io/lunacare-ai-product/)
 
-**0→1 AI Women's Health Product Concept**
+**Self-initiated 0→1 AI Product Concept**
 
-Coming soon.
+How might we help users with irregular periods understand and manage cycle uncertainty without creating unnecessary anxiety?
 
-`Product Strategy` · `PRD` · `User Flow` · `Figma` · `AI Product Design`
+LunaCare explores a more transparent and trustworthy AI cycle experience through:
+
+**Predict → Explain → Guide**
+
+`Product Strategy` · `User Research` · `PRD` · `User Flow` · `AI Product Logic` · `Interactive Prototype`
+
+🌐 **[View Full Case Study →](https://dodojo.github.io/lunacare-ai-product/)**
 
 ---
 
