@@ -70,7 +70,7 @@
 
 ## ✦ Selected Work
 
-### 🌸 [Flo Health — AI Product Experience Analysis](https://github.com/dodojo/flo-health-product-analysis)
+### 🌸 [Flo Health — AI Product Experience Analysis](https://github.com/dodojio/flo-health-product-analysis)
 
 **Independent Product Case Study**
 
@@ -93,7 +93,7 @@ Market Research
 
 ---
 
-### 🌙 [LunaCare — 0→1 AI Women's Health Product](https://dodojo.github.io/lunacare-ai-product/)
+### 🌙 [LunaCare — 0→1 AI Women's Health Product](https://dodojio.github.io/lunacare-ai-product/)
 
 **Self-initiated 0→1 AI Product Concept**
 
