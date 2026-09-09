@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey Guys! I'm Leta 👋
+  Hey There! I'm Leta 👋
 </h2>
 
 <p align="center">
@@ -11,40 +11,140 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20PRODUCT-334E68?style=for-the-badge">
-  <img src="https://img.shields.io/badge/USER%20RESEARCH-486581?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PRODUCT%20DESIGN-627D98?style=for-the-badge">
+  <a href="https://www.instagram.com/dodo_jio?stkn=MXJlOTU5bTV2Y3pvNQ%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:dodojio1872@163.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## ✦ About me
 
-<img align="right" src="./241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="260"/>
+<img align="right" src="./241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="270"/>
 
-🎓 University of Washington — **Com & Info**
+🎓 University of Washington — **Communication + Informatics**
 
-🧠 Interested in **AI Product Management** and consumer products.
+🫧 Interested in **AI Product Management**, consumer products and human-centered AI.
 
-🤖 Exploring **LLM, AI Agents and human-centered AI experiences**.
+📖 Exploring **LLMs, AI Agents and AI-native product experiences**.
 
-🌍 Interested in global products and cross-cultural user experience.
+🌍 Interested in **global products, localization and cross-cultural user experience**.
+
+<br>
+<br>
 
 ---
 
-## ✦ Currently Building
+## ✦ Product & AI Skills
 
-### 🌙 LunaCare
-**AI-powered Women's Health Product · 0→1 Product Case**
+### Product
+
+<p>
+  <img src="https://img.shields.io/badge/PRODUCT%20STRATEGY-334E68?style=for-the-badge">
+  <img src="https://img.shields.io/badge/USER%20RESEARCH-486581?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PRODUCT%20DESIGN-627D98?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PRD-829AB1?style=for-the-badge">
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20PRODUCT-243B53?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM-334E68?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20AGENT-486581?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-627D98?style=for-the-badge">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+---
+
+## ✦ Selected Work
+
+### 🌸 [Flo Health — AI Product Experience Analysis](https://github.com/dodojo/flo-health-product-analysis)
+
+**Independent Product Case Study**
+
+How can an AI-powered period tracking product become more **accurate, transparent and trustworthy**?
+
+This case explores:
+
+`Product Analysis` · `User Research` · `Competitive Analysis` · `AI Product`
+
+**Process**
+
+Market Research  
+→ User Research  
+→ Competitive Analysis  
+→ Experience Walkthrough  
+→ Problem Definition  
+→ Product Opportunities
+
+📄 **[View Full Case Study →](https://github.com/dodojo/flo-health-product-analysis)**
+
+---
+
+### 🌙 Case 02 — LunaCare
+
+**0→1 AI Women's Health Product Concept**
+
+Coming soon.
+
+`Product Strategy` · `PRD` · `User Flow` · `Figma` · `AI Product Design`
+
+---
+
+### 🤖 Case 03 — AI Agent Product
+
+**AI-native Product Case**
+
+Coming soon.
+
+`LLM` · `AI Agent` · `Workflow Design` · `Product Evaluation`
+
+---
+
+## ✦ Experience
+
+### 🎬 Product
+
+**Consumer Product Experience**
+
+Requirement analysis · User journey · Feature design · Product metrics · Iteration
+
+### 🤖 AI
+
+**AI & Data Experience**
+
+SFT data construction · Model evaluation · Speech data · Prompt & AI workflow
+
+### 🔍 Research
+
+**User & Product Research**
+
+User interviews · Survey design · Competitive analysis · Cross-cultural research
 
 ---
 
 ## ✦ Beyond Product
 
-🏛️ Rococo · Baroque · Western Art  
-⚡ Greek Mythology & Ancient Stories  
-🏊 Swimming  
-📷 Museums · Photography · Travel  
-🐾 UW Husky
+🏛️ **Art** — Rococo · Baroque · Western Art  
+
+⚡ **Mythology** — Greek myths & ancient stories  
+
+🏊 **Swimming** way to reset
+
+📷 **Elsewhere** — Photography · Museums · Travel  
+
+🐾 **Forever** — UW Husky
 
 > Curious about people, systems, and the stories behind them.
