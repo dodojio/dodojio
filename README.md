@@ -89,7 +89,7 @@ Market Research
 → Problem Definition  
 → Product Opportunities
 
-📄 **[View Full Case Study →](https://github.com/dodojio/flo-health-product-analysis)**
+[View Full Case Study →](https://github.com/dodojio/flo-health-product-analysis)
 
 ---
 
